@@ -1,5 +1,5 @@
 # API-Testing-with-Postman
-This repo contains CRUD requests for Issues GitHub API and Repos GitHub API.
+This repo contains CRUD requests for Issues GitHub API, requests for Repos GitHub API and Integration tests.
 
 Instructions:
 
